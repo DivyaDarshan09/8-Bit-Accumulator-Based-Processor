@@ -35,13 +35,23 @@ Data moves from memory or registers to ACC
 ALU performs operations using ACC and register/memory
 Output is stored back to memory/registers if needed
 
-# Instruction Set
-Opcode	Mnemonic	Description
-0000	LOAD	Load data from memory to ACC
-0001	ADD	Add register to ACC
-0010	SUB	Subtract register from ACC
-0011	STORE	Store ACC value to memory
-0100	MOV	Move data between registers
-0101	NOP	No operation
-0110	CLR	Clear accumulator
-0111	JMP	Jump to specified address
+
+> ## 🧾 Instruction Set
+> 
+> Below is the list of supported instructions for the 8-bit Accumulator-Based Processor:
+>
+> ```
+> Opcode   Mnemonic   Description
+> -------  ---------  -------------------------------
+> 0001     LOAD       Load immediate value into ACC
+> 0010     ADD        Add immediate value to ACC
+> 0011     SUB        Subtract immediate value from ACC
+> 0100     AND        Bitwise AND with immediate value
+> 0101     OR         Bitwise OR with immediate value
+> 0110     XOR        Bitwise XOR with immediate value
+> 0111     NOT        Bitwise NOT of ACC (ignores operand)
+> 1000     SHL        Shift ACC left by 1 bit
+> 1001     SHR        Shift ACC right by 1 bit
+> 1010     HALT       Halt execution
+> ```
+

@@ -55,3 +55,5 @@ This project implements a basic 8-bit CPU using an accumulator-based architectur
 > 1010     HALT       Halt execution
 > ```
 
+
+

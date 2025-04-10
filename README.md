@@ -20,20 +20,20 @@ This project implements a basic 8-bit CPU using an accumulator-based architectur
 # Architecture
 # Main Modules:
 
-a) Accumulator (ACC): Central register for all operations
-b) ALU: Performs addition, subtraction, and logic operations
-c) Register File: Small set of general-purpose registers
-d) Control Unit: Decodes instructions and generates control signals
-e) Instruction Decoder: Extracts opcodes and operands
-f) Data & Instruction Memory: Stores program and temporary data
+1) Accumulator (ACC): Central register for all operations
+2) ALU: Performs addition, subtraction, and logic operations
+3) Register File: Small set of general-purpose registers
+4) Control Unit: Decodes instructions and generates control signals
+5) Instruction Decoder: Extracts opcodes and operands
+6) Data & Instruction Memory: Stores program and temporary data
 
 # Data Flow:
 
-Instruction is fetched from memory
-Control unit decodes and signals the operation
-Data moves from memory or registers to ACC
-ALU performs operations using ACC and register/memory
-Output is stored back to memory/registers if needed
+1) Instruction is fetched from memory
+2) Control unit decodes and signals the operation
+3) Data moves from memory or registers to ACC
+4) ALU performs operations using ACC and register/memory
+5) Output is stored back to memory/registers if needed
 
 
 > ## 🧾 Instruction Set

@@ -31,7 +31,7 @@
   - Mridhula
   - Class: I Year B.E. ECE
   - Department of ECE, CEG
-  - Email: 
+  - Email: mirdulasrik@gmail.com
 
 ### Alumni Mentors
 - Sivakumar Anandan

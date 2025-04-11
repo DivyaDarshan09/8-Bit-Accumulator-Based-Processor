@@ -37,15 +37,11 @@
 - Sivakumar Anandan
   - Class of 2013, Department of ECE, CEG
   - Email: sivakumaranandan@live.com
-- Sivaram Durai
-  - Class of 2024, Department of ECE, CEG
-  - Email: sivaramdurai82@gmail.com
 - Monish VR
 - -Class: III Year B.E. ECE
   - Department of ECE, CEG
   - Email: 
   
-
 
 
 ## About CEG Fabless

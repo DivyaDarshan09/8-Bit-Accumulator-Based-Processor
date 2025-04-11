@@ -28,10 +28,10 @@
   - Class: I Year B.E. ECE
   - Department of ECE, CEG
   - Email: mcvenupriya@gmail.com
-  - Mridhula
+- Mridhula
   - Class: I Year B.E. ECE
   - Department of ECE, CEG
-  - Email: mirdulasrik@gmail.com
+  - Email:  mirdulasrik@gmail.com
 
 ### Alumni Mentors
 - Sivakumar Anandan
@@ -40,7 +40,7 @@
 - Monish VR
   - Class: III Year B.E. ECE
   - Department of ECE, CEG
-  - Email:
+  - Email: vrmonizoff@gmail.com
   
 
 

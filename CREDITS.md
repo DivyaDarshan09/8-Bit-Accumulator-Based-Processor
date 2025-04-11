@@ -38,7 +38,7 @@
   - Class of 2013, Department of ECE, CEG
   - Email: sivakumaranandan@live.com
 - Monish VR
-- -Class: III Year B.E. ECE
+  -Class: III Year B.E. ECE
   - Department of ECE, CEG
   - Email: 
   
